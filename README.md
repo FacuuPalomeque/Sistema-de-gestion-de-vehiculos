@@ -1,7 +1,5 @@
 # Sistema-de-gestion-de-vehiculos
 
-# Sistema-de-Procesamiento-de-pagos
-
 # Integrantes
 Facundo Palomeque
 Camila Montes
